@@ -12,7 +12,7 @@ I enjoy turning complex problems into practical solutions through code, experime
 
 ---
 
-### 🧠 What I'm Exploring
+###  What I'm Exploring
 
 - Machine Learning & Predictive Modeling
 - Artificial Intelligence & Intelligent Systems
@@ -46,11 +46,11 @@ I enjoy turning complex problems into practical solutions through code, experime
 - Experimenting with feature engineering and model optimization
 - Developing practical AI-powered applications
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 Projects are continuously evolving. Check out my repositories for experiments, applications, and implementations.
 
-### 📡 Connect
+###  Connect
 
 - GitHub: [@VoidStackLabs](https://github.com/VoidStackLabs)
 
