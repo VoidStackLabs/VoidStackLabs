@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="VoidStackLabs — GitHub Banner.png" alt="VoidStackLabs Banner" width="100%">
+</p>
+
 # ⬛ VoidStack Labs
 
 ### Exploring Intelligence. Engineering Possibilities.
